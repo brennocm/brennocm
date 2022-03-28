@@ -1,6 +1,5 @@
 <div align="center">
-  <h1> 👋 </h1>
-  <br>
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/100173747/160472655-cae76eb8-72b8-4396-8039-fb33a817f6d3.gif" width="700px" />
@@ -11,7 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brennocm)
 
 
-## Tecnologias que estou aprendendo
+## Tecnologias que estou estudando
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,7 +21,7 @@
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div><br/>
 
-## Sistemas operacionais que estou aprendendo ou tenho experiência
+## Sistemas operacionais que tenho experiência ou estou estudando
 <div style="display: inline_block">
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img align="center" alt="ubuntun" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
