@@ -1,8 +1,9 @@
 <div align="center">
-  <h1> Olá 👋 </h1>
+  <h1> 👋 </h1>
+  <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/100173747/160463743-f2141b59-ae60-4a08-b6af-63565aeca68f.png" width="700px" />
+<img src="https://user-images.githubusercontent.com/100173747/160472655-cae76eb8-72b8-4396-8039-fb33a817f6d3.gif" width="700px" />
 </div>
  <br/>
    
