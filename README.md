@@ -1,6 +1,11 @@
-### Olá 👋
-Sou um estudante de Analise e Desenvolvimento de Sistemas.
+<div align="center">
+  <h1> Olá 👋 </h1>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/100173747/160463743-f2141b59-ae60-4a08-b6af-63565aeca68f.png" width="700px" />
+</div>
+ <br/>
+   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naotalentoso)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brennocm)
 
@@ -23,5 +28,6 @@ Sou um estudante de Analise e Desenvolvimento de Sistemas.
   <img align="center" alt="Tails" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white"/>
   <img align="center" alt="mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
 </div><br/>
+  </div>
 
 
