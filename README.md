@@ -1,33 +1,57 @@
 <div align="center">
 
+  ## Olá 👋
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/100173747/160472655-cae76eb8-72b8-4396-8039-fb33a817f6d3.gif" width="700px" />
+<img src="https://user-images.githubusercontent.com/100173747/166162903-b65578fe-92e6-4cb3-9242-9c69598a412a.png"/>
 </div>
  <br/>
-   
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naotalentoso)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brennocm)
+ 
 
+<div align="center">
 
-## Tecnologias que estou estudando
+Sou um estudante de Análise e Desenvolvimento de Sistemas [#](https://www.linkedin.com/in/brennocm/).
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
- <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div><br/>
-
-## Sistemas operacionais que tenho experiência ou estou estudando
-<div style="display: inline_block">
-  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img align="center" alt="ubuntun" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img align="center" alt="Tails" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white"/>
-  <img align="center" alt="mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
-</div><br/>
+<details>
+  <summary>Sobre mim:</summary>
+<div align="left">
+ 
+``` js
+const brennocm = {
+    pessoal: {
+        nomeCompleto: 'Brenno Cavalcante Miranda',
+        dataDeNascimento: '10-05-2002',
+        interesses: ['rap', 'tecnologia', 'literatura'],
+        motivacao: [
+            'Uma fome gigantesca por evoluir',
+            'Medo de estagnar',
+        ],
+    },
+    habilidades: {
+        tecnologias: {
+            frontEnd: {
+                Javascript: ['Vanilla JS', 'React'],
+                HTML: ['HTML5'],
+                CSS: ['CSS3', 'Bootstrap', 'sass'],
+            },
+            backEnd: {
+                Java: ['Java', 'SpringBoot'],
+                C: ['C'],
+            },
+            sistemaOperacional: {
+                Linux: ['Ubuntu', 'Mint', 'Tails'],
+                Windows: ['Windows 10'],
+            },
+        }, 
+    }
+}
+```
   </div>
+</details>
+
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:brennocmiranda@outlook.com)](mailto:brennocmiranda@outlook.com)
+[![Linkedin: brennocm](https://img.shields.io/badge/-brennocm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brennocm/)](https://www.linkedin.com/in/brennocm/)
+[![GitHub: brennocm](https://img.shields.io/github/followers/brennocm?label=follow&style=social)](https://github.com/brennocm)
+</div>
 
 
