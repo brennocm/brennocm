@@ -23,19 +23,17 @@ const brennocm = {
         dataDeNascimento: '10-05-2002',
         interesses: ['rap', 'tecnologia', 'literatura'],
         motivacao: [
-            'Uma fome gigantesca por evoluir',
-            'Medo de estagnar',
+            'Uma fome gigantesca para evoluir',
         ],
     },
     habilidades: {
         tecnologias: {
             frontEnd: {
-                Javascript: ['Vanilla JS', 'React'],
+                Javascript: ['Vanilla JS'],
                 HTML: ['HTML5'],
                 CSS: ['CSS3', 'Bootstrap', 'sass'],
             },
             backEnd: {
-                Java: ['Java', 'SpringBoot'],
                 C: ['C'],
             },
             sistemaOperacional: {
