@@ -29,9 +29,9 @@ const brennocm = {
     habilidades: {
         tecnologias: {
             frontEnd: {
-                Javascript: ['Vanilla JS'],
+                Javascript: ['Vanilla JS', 'Typescript'],
                 HTML: ['HTML5'],
-                CSS: ['CSS3', 'Bootstrap', 'sass'],
+                CSS: ['CSS3', 'Bootstrap'],
             },
             backEnd: {
                 C: ['C'],
