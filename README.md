@@ -22,9 +22,6 @@ const brennocm = {
         nomeCompleto: 'Brenno Cavalcante Miranda',
         dataDeNascimento: '10-05-2002',
         interesses: ['rap', 'tecnologia', 'literatura'],
-        motivacao: [
-            'Uma fome gigantesca para evoluir',
-        ],
     },
     habilidades: {
         tecnologias: {
