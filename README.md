@@ -3,12 +3,6 @@
   ## Olá 👋
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/100173747/166162903-b65578fe-92e6-4cb3-9242-9c69598a412a.png"/>
-</div>
- <br/>
- 
-
-<div align="center">
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas [#](https://www.linkedin.com/in/brennocm/).
 
@@ -26,7 +20,7 @@ const brennocm = {
     habilidades: {
         tecnologias: {
             frontEnd: {
-                Javascript: ['Vanilla JS', 'Typescript'],
+                Javascript: ['Vanilla JS'],
                 HTML: ['HTML5'],
                 CSS: ['CSS3', 'Bootstrap'],
             },
