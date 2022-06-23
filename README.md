@@ -28,7 +28,7 @@ const brennocm = {
                 C: ['C'],
             },
             sistemaOperacional: {
-                Linux: ['Ubuntu', 'Mint', 'Tails'],
+                Linux: ['Ubuntu', 'Whonix', 'Tails'],
                 Windows: ['Windows 10'],
             },
         }, 
