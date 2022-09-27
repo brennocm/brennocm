@@ -23,13 +23,12 @@ echo "hacking enthusiast"
 sudo apt-get install nmap
 sudo apt-get install burpsuit
 sudo apt-get install ncat
-sudo apt-get install sql-map
 sudo apt-get install proxychains4
 
 #Profile
 
 so=kali,ubuntu,whonix,tails,windows
-lin=C,bash
+lin=c,bash
 inte=CTF,hacking,programacao
 
 echo "Sistemas operacionais: $so"
