@@ -25,7 +25,7 @@ sudo apt-get install burpsuit
 sudo apt-get install ncat
 sudo apt-get install proxychains4
 
-#Profile
+#profile
 
 so=kali,ubuntu,whonix,tails,windows
 lin=c,bash
