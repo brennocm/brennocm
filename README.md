@@ -29,7 +29,7 @@ sudo apt-get install proxychains4
 
 so=kali,ubuntu,whonix,tails,windows
 lin=c,bash
-inte=CTF,hacking,programacao
+inte=ctf,hacking,programacao
 
 echo "Sistemas operacionais: $so"
 echo "Linguagens de programação: $lin"
