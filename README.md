@@ -20,10 +20,14 @@ brennocm@vm:/github$
 
 echo "hacking enthusiast"
 
-sudo apt-get install nmap
-sudo apt-get install burpsuit
-sudo apt-get install ncat
-sudo apt-get install proxychains4
+sudo apt-get update
+sudo apt-get upgrade
+
+sudo apt-get install nmap -y
+sudo apt-get install burpsuit -y
+sudo apt-get install ncat -y
+sudo apt-get install proxychains4 -y
+sudo apt-get install wireshark -y
 
 #profile
 
