@@ -11,29 +11,32 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas [#](https://www.linke
 <div align="left">
  
 ``` js
-const brennocm = {
-    pessoal: {
-        nomeCompleto: 'Brenno Cavalcante Miranda',
-        dataDeNascimento: '10-05-2002',
-        interesses: ['rap', 'tecnologia', 'literatura'],
-    },
-    habilidades: {
-        tecnologias: {
-            frontEnd: {
-                Javascript: ['Vanilla JS'],
-                HTML: ['HTML5'],
-                CSS: ['CSS3', 'Bootstrap'],
-            },
-            backEnd: {
-                C: ['C'],
-            },
-            sistemaOperacional: {
-                Linux: ['Ubuntu', 'Whonix', 'Tails'],
-                Windows: ['Windows 10'],
-            },
-        }, 
-    }
-}
+
+brennocm@vm:/github$ ls
+profile.sh
+brennocm@vm:/github$ cat profile.sh
+brennocm@vm:/github$
+#!bin/bash
+
+echo "hacking enthusiast"
+
+sudo apt-get install nmap
+sudo apt-get install burpsuit
+sudo apt-get install ncat
+sudo apt-get install sql-map
+sudo apt-get install proxychains4
+
+#Profile
+
+so=kali,ubuntu,whonix,tails,windows
+lin=C,Bash
+inte=CTF,Hacking,Programacao
+
+echo "Sistemas operacionais: $so"
+echo "Linguagens de programação: $lin"
+echo "Interesses profissionais: $inte"
+
+
 ```
   </div>
 </details>
