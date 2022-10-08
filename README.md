@@ -1,14 +1,19 @@
-<div align="center">
+<img align="left" src="https://orhun.dev/img/crow.png">
 
-  # Olá 🏴‍☠️
-  <br/>
+### Olá! 🏴‍☠️
 
-<div align="center">
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas [#](https://www.linkedin.com/in/brennocm/).
+<br><br>
+
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:brennocmiranda@outlook.com)](mailto:brennocmiranda@outlook.com)
+[![Linkedin: brennocm](https://img.shields.io/badge/-brennocm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brennocm/)](https://www.linkedin.com/in/brennocm/)
+[![GitHub: brennocm](https://img.shields.io/github/followers/brennocm?label=follow&style=social)](https://github.com/brennocm)
+</div>
+
 
 <details>
-  <summary>Sobre mim:</summary>
+<summary> Sobre mim:</summary>
 <div align="left">
  
 ``` js
@@ -44,10 +49,3 @@ echo "Interesses profissionais: $inte"
 ```
   </div>
 </details>
-
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:brennocmiranda@outlook.com)](mailto:brennocmiranda@outlook.com)
-[![Linkedin: brennocm](https://img.shields.io/badge/-brennocm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brennocm/)](https://www.linkedin.com/in/brennocm/)
-[![GitHub: brennocm](https://img.shields.io/github/followers/brennocm?label=follow&style=social)](https://github.com/brennocm)
-</div>
-
-
