@@ -18,6 +18,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas [#](https://www.linke
  
 ``` js
 
+brennocm@vm:$ cd github
 brennocm@vm:/github$ ls
 profile.sh
 brennocm@vm:/github$ cat profile.sh
