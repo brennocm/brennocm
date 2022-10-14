@@ -44,7 +44,7 @@ inte=ctf,hacking,programacao
 
 echo "Sistemas operacionais: $so"
 echo "Linguagens de programação: $lin"
-echo "Interesses profissionais: $inte"
+echo "Interesses: $inte"
 
 
 ```
