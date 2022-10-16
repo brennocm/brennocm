@@ -39,7 +39,7 @@ sudo apt-get install wireshark -y
 #profile
 
 so=kali,ubuntu,whonix,tails,windows
-lin=c,python,php
+lin=c,python,php,javascript
 inte=ctf,hacking,programacao
 
 echo "Sistemas operacionais: $so"
