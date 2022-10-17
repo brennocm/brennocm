@@ -3,7 +3,7 @@
 ### Olá! 🏴‍☠️
 
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas [#](https://www.linkedin.com/in/brennocm/).
+Sou um estudante de Análise e Desenvolvimento de Sistemas
 <br><br>
 
 [![LinkedIN: brennocm](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brennocm/)
