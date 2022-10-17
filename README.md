@@ -6,9 +6,9 @@
 Sou um estudante de Análise e Desenvolvimento de Sistemas [#](https://www.linkedin.com/in/brennocm/).
 <br><br>
 
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:brennocmiranda@outlook.com)](mailto:brennocmiranda@outlook.com)
-[![Linkedin: brennocm](https://img.shields.io/badge/-brennocm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brennocm/)](https://www.linkedin.com/in/brennocm/)
-[![GitHub: brennocm](https://img.shields.io/github/followers/brennocm?label=follow&style=social)](https://github.com/brennocm)
+[![LinkedIN: brennocm](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brennocm/)
+[![GitBook: brennocm](https://img.shields.io/badge/GitBook-3884FF.svg?style=for-the-badge&logo=GitBook&logoColor=white)](https://brennocm.gitbook.io/profile/)
+[![TryHackMe: brennocm](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/brennocm)
 </div>
 
 
