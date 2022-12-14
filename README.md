@@ -51,4 +51,3 @@ echo "Interesses: $inte"
 ```
   </div>
 </details>
-</div>
