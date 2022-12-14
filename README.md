@@ -6,10 +6,15 @@
 Sou um estudante de Análise e Desenvolvimento de Sistemas
 <br>
 
+[![LinkedIN: brennocm](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brennocm/)
+[![GitBook: brennocm](https://img.shields.io/badge/GitBook-3884FF.svg?style=for-the-badge&logo=GitBook&logoColor=white)](https://brennocm.gitbook.io/profile/)
+[![TryHackMe: brennocm](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/brennocm)
+
 <details>
  
 <summary> Sobre mim:</summary>
  
+
 <div align="left">
  
 ``` js
@@ -46,9 +51,4 @@ echo "Interesses: $inte"
 ```
   </div>
 </details>
-
-
-[![LinkedIN: brennocm](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brennocm/)
-[![GitBook: brennocm](https://img.shields.io/badge/GitBook-3884FF.svg?style=for-the-badge&logo=GitBook&logoColor=white)](https://brennocm.gitbook.io/profile/)
-[![TryHackMe: brennocm](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/brennocm)
-
+</div>
