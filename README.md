@@ -30,16 +30,16 @@ echo "hacking enthusiast"
 
 sudo apt-get update
 sudo apt-get upgrade
-
+ 
 sudo apt-get install nmap -y
 sudo apt-get install burpsuit -y
 sudo apt-get install ncat -y
 sudo apt-get install proxychains4 -y
-sudo apt-get install wireshark -y
+sudo apt-get install torbrowser-launcher -y
 
 #profile
 
-so=kali,ubuntu,whonix,tails,windows
+so=kali,whonix,tails,windows
 lin=c,python,php,javascript
 inte=ctf,hacking,programacao
 
