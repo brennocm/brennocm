@@ -2,8 +2,8 @@
 
 <br>
 
-"Tomando sol, eu lendo Dante Alighieri <br>
-Comparando o inferno dele com o meu."
+"O plano físico tornou-se <br> 
+apenas um baile de máscaras."
 
 <br> <br> <br>
 
