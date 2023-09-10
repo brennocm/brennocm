@@ -5,7 +5,7 @@
 "Tomando sol, eu lendo Dante Alighieri <br>
 Comparando o inferno dele com o meu."
 
-<br> <br>
+<br> <br> <br>
 
 [![LinkedIN: brennocm](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brennocm/)
 [![GitBook: brennocm](https://img.shields.io/badge/GitBook-3884FF.svg?style=for-the-badge&logo=GitBook&logoColor=white)](https://brennocm.gitbook.io/profile/)
