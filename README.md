@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=C879ZO5QXMg">
+<a target="_blank" href="https://www.youtube.com/watch?v=C879ZO5QXMg">
 <img align="left" src="https://orhun.dev/img/crow.png">
 </a>
 
