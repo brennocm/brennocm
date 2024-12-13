@@ -5,7 +5,7 @@
 <br> <br>
 
 "O plano físico tornou-se <br> 
-apenas um baile de máscaras."
+um baile de máscaras."
 
 <br> <br> <br>
 
