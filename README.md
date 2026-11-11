@@ -9,9 +9,9 @@
 <table>
   <tr>
     <td width="25%" valign="top"><br><a href="https://github.com/brennocm/pwncortex"><img width="100%" src="https://raw.githubusercontent.com/brennocm/pwncortex/main/assets/graph-view.png"></a><br><b>pwncortex</b><br><small>Self-hosted AI-powered pentest orchestration platform.</small><br><br></td>
-    <td width="25%" valign="top"><br><a href="https://github.com/no-distraction/no-distraction.github.io"><img width="100%" src="assets/no-distraction.png"></a><br><b>no-distraction</b><br><small>Calendar, tasks, notes and pomodoro on one screen.</small><br><br></td>
+    <td width="25%" valign="top"><br><a href="https://github.com/no-distraction/no-distraction.github.io"><img width="100%" src="assets/no-distraction.gif"></a><br><b>no-distraction</b><br><small>Calendar, tasks, notes and pomodoro on one screen.</small><br><br></td>
     <td width="25%" valign="top"><br><a href="https://github.com/brennocm/aporte"><img width="100%" src="https://raw.githubusercontent.com/brennocm/aporte/main/assets/history.png"></a><br><b>aporte</b><br><small>Self-hosted portfolio rebalancing and backtesting.</small><br><br></td>
-    <td width="25%" valign="top"><br><a href="https://github.com/lics-unicamp/website"><img width="100%" src="assets/lics-website.png"></a><br><b>lics-unicamp/website</b><br><small>Website of the UNICAMP cybersecurity league.</small><br><br></td>
+    <td width="25%" valign="top"><br><a href="https://github.com/lics-unicamp/website"><img width="100%" src="assets/lics-website.gif"></a><br><b>lics-unicamp/website</b><br><small>Website of the UNICAMP cybersecurity league.</small><br><br></td>
   </tr>
   <tr>
     <td width="25%" valign="top"><br><a href="https://github.com/brennocm/escalint"><img width="100%" src="https://raw.githubusercontent.com/brennocm/escalint/main/docs/media/ui.gif"></a><br><b>escalint</b><br><small>Static analyzer for AWS IAM privilege escalation paths.</small><br><br></td>
@@ -20,10 +20,10 @@
     <td width="25%" valign="top"><br><a href="https://github.com/brennocm/oraclewatch"><img width="100%" src="https://raw.githubusercontent.com/brennocm/oraclewatch/main/docs/images/check.gif"></a><br><b>oraclewatch</b><br><small>Read-only monitor for Chainlink Data Feeds.</small><br><br></td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><br><a href="https://github.com/brennocm/doppelganger"><img width="100%" src="https://raw.githubusercontent.com/brennocm/doppelganger/main/apps/web/e2e/states.spec.ts-snapshots/exorcised-1440-no-preference-linux.png"></a><br><b>doppelganger</b><br><small>In-browser detector for cloned voices on live calls.</small><br><br></td>
-    <td width="25%" valign="top"><br><a href="https://biteducation.github.io/"><img width="100%" src="https://raw.githubusercontent.com/BitEducation/biteducation.github.io/main/public/brand/og-image.jpg"></a><br><b>BitEducation</b><br><small>Interactive lessons on networks, OS and architecture.</small><br><br></td>
-    <td width="25%" valign="top"><br><a href="https://brennocm.github.io"><img width="100%" src="assets/blog.png"></a><br><b>brennocm.github.io</b><br><small>Articles, write-ups and certification reviews.</small><br><br></td>
-    <td width="25%"></td>
+    <td width="25%" valign="top"><br><a href="https://github.com/brennocm/doppelganger"><img width="100%" src="assets/doppelganger.gif"></a><br><b>doppelganger</b><br><small>In-browser detector for cloned voices on live calls.</small><br><br></td>
+    <td width="25%" valign="top"><br><a href="https://biteducation.github.io/"><img width="100%" src="assets/biteducation.gif"></a><br><b>BitEducation</b><br><small>Interactive lessons on networks, OS and architecture.</small><br><br></td>
+    <td width="25%" valign="top"><br><a href="https://brennocm.github.io"><img width="100%" src="assets/blog.gif"></a><br><b>brennocm.github.io</b><br><small>Articles, write-ups and certification reviews.</small><br><br></td>
+    <td width="25%" valign="top"><br><a href="https://newsmapp.github.io/"><img width="100%" src="assets/newsmapp.gif"></a><br><b>NewsMapp</b><br><small>The world's news outlets, by country and topic.</small><br><br></td>
   </tr>
 </table>
 
@@ -58,6 +58,8 @@
 <sub><code>awareness</code></sub><br><a href="https://github.com/FastPhish/prototype"><b>FastPhish</b></a><br><small>Phishing simulation SaaS on GoPhish and Terraform, one server per campaign.</small>
 <br><br>
 <sub><code>education</code></sub><br><a href="https://github.com/BitEducation/biteducation.github.io"><b>BitEducation</b></a><br><small>Interactive lessons on networks, operating systems and computer architecture.</small>
+<br><br>
+<sub><code>news</code></sub><br><a href="https://github.com/newsmapp/newsmapp.github.io"><b>NewsMapp</b></a><br><small>Directory of news outlets in 31 countries, with paywall and owner marked on each one.</small>
     </td>
   </tr>
 </table>
