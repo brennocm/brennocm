@@ -34,13 +34,13 @@
     <td width="50%" valign="top">
 <sub><code>ai pentest</code></sub><br><a href="https://github.com/brennocm/pwncortex"><b>pwncortex</b></a><br><small>Self-hosted pentest platform with an AI chat that knows the whole engagement.</small>
 <br><br>
-<sub><code>cloud</code></sub><br><a href="https://github.com/brennocm/oci-secops"><b>oci-secops</b></a><br><small>Provisions and hardens Oracle Cloud Always Free instances for security labs.</small><br><br><a href="https://github.com/brennocm/escalint"><b>escalint</b></a><br><small>Finds every path from an IAM principal to admin in a read-only snapshot.</small>
+<sub><code>cloudsec</code></sub><br><a href="https://github.com/brennocm/oci-secops"><b>oci-secops</b></a><br><small>Provisions and hardens Oracle Cloud Always Free instances for security labs.</small><br><br><a href="https://github.com/brennocm/escalint"><b>escalint</b></a><br><small>Finds every path from an IAM principal to admin in a read-only snapshot.</small>
 <br><br>
 <sub><code>productivity</code></sub><br><a href="https://github.com/no-distraction/no-distraction.github.io"><b>no-distraction</b></a><br><small>Calendar, tasks, notes and pomodoro on one screen. Offline, no account.</small>
 <br><br>
 <sub><code>finance</code></sub><br><a href="https://github.com/brennocm/aporte"><b>aporte</b></a><br><small>Portfolio backtesting with monthly contributions and rebalancing.</small>
 <br><br>
-<sub><code>deepfake</code></sub><br><a href="https://github.com/brennocm/doppelganger"><b>doppelganger</b></a><br><small>Detects cloned voices in live calls, in the browser.</small>
+<sub><code>ai security</code></sub><br><a href="https://github.com/brennocm/doppelganger"><b>doppelganger</b></a><br><small>Detects cloned voices in live calls, in the browser.</small>
 <br><br>
 <sub><code>recon</code></sub><br><a href="https://github.com/brennocm/fast-enum"><b>fast-enum</b></a><br><small>Subdomain enumeration and crawling for pentests and bug bounty.</small><br><br><a href="https://github.com/brennocm/basic-enum-tools"><b>basic-enum-tools</b></a><br><small>Installs and configures common recon tools.</small>
 <br><br>
@@ -55,7 +55,7 @@
 <br><br>
 <sub><code>web3-sec</code></sub><br><a href="https://github.com/brennocm/blindsight"><b>blindsight</b></a><br><small>Offline verifier for Safe transactions. Flags takeovers like the Bybit one.</small><br><br><a href="https://github.com/brennocm/oraclint"><b>oraclint</b></a><br><small>Security linter for Chainlink node deployments.</small><br><br><a href="https://github.com/brennocm/oraclewatch"><b>oraclewatch</b></a><br><small>Read-only monitor for Chainlink Data Feeds on Ethereum and L2s.</small>
 <br><br>
-<sub><code>phishing</code></sub><br><a href="https://github.com/FastPhish/prototype"><b>FastPhish</b></a><br><small>Phishing simulation SaaS on GoPhish and Terraform, one server per campaign.</small>
+<sub><code>awareness</code></sub><br><a href="https://github.com/FastPhish/prototype"><b>FastPhish</b></a><br><small>Phishing simulation SaaS on GoPhish and Terraform, one server per campaign.</small>
 <br><br>
 <sub><code>education</code></sub><br><a href="https://github.com/BitEducation/biteducation.github.io"><b>BitEducation</b></a><br><small>Interactive lessons on networks, operating systems and computer architecture.</small>
     </td>
