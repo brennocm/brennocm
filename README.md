@@ -16,7 +16,7 @@
   <tr>
     <td width="25%" valign="top"><br><a href="https://github.com/brennocm/escalint"><img width="100%" src="https://raw.githubusercontent.com/brennocm/escalint/main/docs/media/ui.gif"></a><br><b>escalint</b><br><small>Static analyzer for AWS IAM privilege escalation paths.</small><br><br></td>
     <td width="25%" valign="top"><br><a href="https://github.com/brennocm/blindsight"><img width="100%" src="https://raw.githubusercontent.com/brennocm/blindsight/main/docs/demo/bybit.gif"></a><br><b>blindsight</b><br><small>Offline verifier for Safe multisig transactions.</small><br><br></td>
-    <td width="25%" valign="top"><br><a href="https://github.com/brennocm/oraclint"><img width="100%" src="https://raw.githubusercontent.com/brennocm/oraclint/main/docs/assets/demo.gif"></a><br><b>oraclint</b><br><small>Static security linter for Chainlink node deployments.</small><br><br></td>
+    <td width="25%" valign="top"><br><a href="https://brasa-br.github.io/calendar/"><img width="100%" src="assets/brasa.gif"></a><br><b>brasa</b><br><small>25 years of fire in Brazil on one consistent scale.</small><br><br></td>
     <td width="25%" valign="top"><br><a href="https://github.com/brennocm/oraclewatch"><img width="100%" src="https://raw.githubusercontent.com/brennocm/oraclewatch/main/docs/images/check.gif"></a><br><b>oraclewatch</b><br><small>Read-only monitor for Chainlink Data Feeds.</small><br><br></td>
   </tr>
   <tr>
@@ -60,6 +60,19 @@
 <sub><code>education</code></sub><br><a href="https://github.com/BitEducation/biteducation.github.io"><b>BitEducation</b></a><br><small>Interactive lessons on networks, operating systems and computer architecture.</small>
 <br><br>
 <sub><code>news</code></sub><br><a href="https://github.com/newsmapp/newsmapp.github.io"><b>NewsMapp</b></a><br><small>Directory of news outlets in 31 countries, with paywall and owner marked on each one.</small>
+    </td>
+  </tr>
+</table>
+
+## Hackathons
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+<sub><code>unicef × superteam brasil ideathon</code></sub><br><a href="https://github.com/brennocm/repasse-transparente"><b>repasse-transparente</b></a><br><small>Blocks overpriced school meal purchases before payment, using a median of independent price oracles.</small>
+    </td>
+    <td width="50%" valign="top">
+<sub><code>nasa space apps 2026</code></sub><br><a href="https://github.com/brasa-br/calendar"><b>brasa</b></a><br><small>25 years of fire in Brazil on one scale, harmonizing MODIS and VIIRS hotspots.</small>
     </td>
   </tr>
 </table>
