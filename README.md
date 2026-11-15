@@ -47,6 +47,8 @@
 <sub><code>appsec</code></sub><br><a href="https://github.com/brennocm/assistant-cap"><b>assistant-cap</b></a><br><small>Study material for the Certified AppSec Practitioner exam.</small>
 <br><br>
 <sub><code>blog</code></sub><br><a href="https://github.com/brennocm/brennocm.github.io"><b>brennocm.github.io</b></a><br><small>Personal blog with technical articles on information security.</small>
+<br><br>
+<sub><code>hackathons</code></sub><br><a href="https://github.com/brennocm/repasse-transparente"><b>repasse-transparente</b></a><br><small>Blocks overpriced school meal purchases using a median of price oracles. UNICEF × Superteam Brasil Ideathon.</small><br><br><a href="https://github.com/brasa-br/calendar"><b>brasa</b></a><br><small>25 years of fire in Brazil on one scale, harmonizing MODIS and VIIRS hotspots. NASA Space Apps 2026.</small>
     </td>
     <td width="50%" valign="top">
 <sub><code>privacy</code></sub><br><a href="https://github.com/brennocm/wg-auto"><b>wg-auto</b></a><br><small>Installs and configures WireGuard on servers and clients.</small><br><br><a href="https://github.com/brennocm/bridge-tor-setup"><b>bridge-tor-setup</b></a><br><small>Hardens a Debian VPS and deploys a Tor obfs4 bridge with monitoring.</small><br><br><a href="https://github.com/brennocm/tiktok-unwall"><b>tiktok-unwall</b></a><br><small>Browser extension that removes TikTok's login wall.</small><br><br><a href="https://github.com/brennocm/keyguardian"><b>keyguardian</b></a><br><small>Password vault in Flutter, encrypted with a master key.</small>
@@ -60,19 +62,6 @@
 <sub><code>education</code></sub><br><a href="https://github.com/BitEducation/biteducation.github.io"><b>BitEducation</b></a><br><small>Interactive lessons on networks, operating systems and computer architecture.</small>
 <br><br>
 <sub><code>news</code></sub><br><a href="https://github.com/newsmapp/newsmapp.github.io"><b>NewsMapp</b></a><br><small>Directory of news outlets in 31 countries, with paywall and owner marked on each one.</small>
-    </td>
-  </tr>
-</table>
-
-## Hackathons
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-<sub><code>unicef × superteam brasil ideathon</code></sub><br><a href="https://github.com/brennocm/repasse-transparente"><b>repasse-transparente</b></a><br><small>Blocks overpriced school meal purchases before payment, using a median of independent price oracles.</small>
-    </td>
-    <td width="50%" valign="top">
-<sub><code>nasa space apps 2026</code></sub><br><a href="https://github.com/brasa-br/calendar"><b>brasa</b></a><br><small>25 years of fire in Brazil on one scale, harmonizing MODIS and VIIRS hotspots.</small>
     </td>
   </tr>
 </table>
