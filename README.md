@@ -10,14 +10,14 @@
   <tr>
     <td width="25%" valign="top"><br><a href="https://github.com/brennocm/pwncortex"><img width="100%" src="https://raw.githubusercontent.com/brennocm/pwncortex/main/assets/graph-view.png"></a><br><b>pwncortex</b><br><small>Self-hosted AI-powered pentest orchestration platform.</small><br><br></td>
     <td width="25%" valign="top"><br><a href="https://github.com/no-distraction/no-distraction.github.io"><img width="100%" src="assets/no-distraction.gif"></a><br><b>no-distraction</b><br><small>Calendar, tasks, notes and pomodoro on one screen.</small><br><br></td>
-    <td width="25%" valign="top"><br><a href="https://github.com/brennocm/aporte"><img width="100%" src="https://raw.githubusercontent.com/brennocm/aporte/main/assets/history.png"></a><br><b>aporte</b><br><small>Self-hosted portfolio rebalancing and backtesting.</small><br><br></td>
+    <td width="25%" valign="top"><br><a href="https://huggingface.co/spaces/brennocm/PII-BR"><img width="100%" src="assets/pii-br.png"></a><br><b>PII-BR</b><br><small>Finds and masks personal data in Portuguese text (LGPD).</small><br><br></td>
     <td width="25%" valign="top"><br><a href="https://github.com/lics-unicamp/website"><img width="100%" src="assets/lics-website.gif"></a><br><b>lics-unicamp/website</b><br><small>Website of the UNICAMP cybersecurity league.</small><br><br></td>
   </tr>
   <tr>
     <td width="25%" valign="top"><br><a href="https://github.com/brennocm/escalint"><img width="100%" src="https://raw.githubusercontent.com/brennocm/escalint/main/docs/media/ui.gif"></a><br><b>escalint</b><br><small>Static analyzer for AWS IAM privilege escalation paths.</small><br><br></td>
     <td width="25%" valign="top"><br><a href="https://github.com/brennocm/blindsight"><img width="100%" src="https://raw.githubusercontent.com/brennocm/blindsight/main/docs/demo/bybit.gif"></a><br><b>blindsight</b><br><small>Offline verifier for Safe multisig transactions.</small><br><br></td>
     <td width="25%" valign="top"><br><a href="https://brasa-br.github.io/calendar/"><img width="100%" src="assets/brasa.gif"></a><br><b>brasa</b><br><small>25 years of fire in Brazil on one consistent scale.</small><br><br></td>
-    <td width="25%" valign="top"><br><a href="https://github.com/brennocm/oraclewatch"><img width="100%" src="https://raw.githubusercontent.com/brennocm/oraclewatch/main/docs/images/check.gif"></a><br><b>oraclewatch</b><br><small>Read-only monitor for Chainlink Data Feeds.</small><br><br></td>
+    <td width="25%" valign="top"><br><a href="https://github.com/brennocm/aporte"><img width="100%" src="https://raw.githubusercontent.com/brennocm/aporte/main/assets/history.png"></a><br><b>aporte</b><br><small>Self-hosted portfolio rebalancing and backtesting.</small><br><br></td>
   </tr>
   <tr>
     <td width="25%" valign="top"><br><a href="https://github.com/brennocm/doppelganger"><img width="100%" src="assets/doppelganger.gif"></a><br><b>doppelganger</b><br><small>In-browser detector for cloned voices on live calls.</small><br><br></td>
