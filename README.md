@@ -22,7 +22,7 @@
   <tr>
     <td width="25%" valign="top"><br><a href="https://github.com/brennocm/doppelganger"><img width="100%" src="assets/doppelganger.gif"></a><br><b>doppelganger</b><br><small>In-browser detector for cloned voices on live calls.</small><br><br></td>
     <td width="25%" valign="top"><br><a href="https://biteducation.github.io/"><img width="100%" src="assets/biteducation.gif"></a><br><b>BitEducation</b><br><small>Interactive lessons on networks, OS and architecture.</small><br><br></td>
-    <td width="25%" valign="top"><br><a href="https://brennocm.github.io"><img width="100%" src="assets/blog.gif"></a><br><b>brennocm.github.io</b><br><small>Articles, write-ups and certification reviews.</small><br><br></td>
+    <td width="25%" valign="top"><br><a href="https://github.com/brennocm/iris"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brennocm/iris/main/docs/assets/iris-logo-dark.svg"><img width="100%" src="https://raw.githubusercontent.com/brennocm/iris/main/docs/assets/iris-logo-light.svg"></picture></a><br><b>iris</b><br><small>Android RASP SDK with signed, server-verified reports.</small><br><br></td>
     <td width="25%" valign="top"><br><a href="https://newsmapp.github.io/"><img width="100%" src="assets/newsmapp.gif"></a><br><b>NewsMapp</b><br><small>The world's news outlets, by country and topic.</small><br><br></td>
   </tr>
 </table>
