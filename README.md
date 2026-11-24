@@ -59,7 +59,7 @@
 <br><br>
 <sub><code>awareness</code></sub><br><a href="https://github.com/FastPhish/prototype"><b>FastPhish</b></a><br><small>Phishing simulation SaaS on GoPhish and Terraform, one server per campaign.</small>
 <br><br>
-<sub><code>education</code></sub><br><a href="https://github.com/BitEducation/biteducation.github.io"><b>BitEducation</b></a><br><small>Interactive lessons on networks, operating systems and computer architecture.</small>
+<sub><code>education</code></sub><br><a href="https://github.com/BitEducation/biteducation.github.io"><b>BitEducation</b></a><br><small>Interactive lessons on networks, operating systems and computer architecture.</small><br><br><a href="https://github.com/englishmap/englishmap.github.io"><b>englishmap</b></a><br><small>Resources for learning English online as an immersion, by CEFR level and cost.</small>
 <br><br>
 <sub><code>news</code></sub><br><a href="https://github.com/newsmapp/newsmapp.github.io"><b>NewsMapp</b></a><br><small>Directory of news outlets in 31 countries, with paywall and owner marked on each one.</small>
     </td>
